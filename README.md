@@ -39,4 +39,4 @@ mechanisms.
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/debalina-chakraborty-9337b81b0/
-- Resume: 
+- Resume: https://drive.google.com/file/d/17scG7DIFPjnDADlQaety1ZfXXlDv9Csx/view?usp=drive_link
